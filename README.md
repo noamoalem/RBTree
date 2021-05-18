@@ -22,4 +22,4 @@ Because of that, the create new tree function expect to get compare function.
 After that you can like your program with the library, and run your program.
 
 
-<img src="Images/RBTRee.png" width="800" height="400" />
+<img src="Images/RBTRee.png" width="1200" height="800" />
