@@ -1,4 +1,5 @@
-##Red-Black Tree
+## Red-Black Tree
+
 ————————
 
 Red-Black Tree is a sorted data structure of type balanced binary search tree.
