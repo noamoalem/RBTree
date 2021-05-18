@@ -1,6 +1,5 @@
 ## Red-Black Tree
 
-————————
 
 Red-Black Tree is a sorted data structure of type balanced binary search tree.
 Each node stores 5 fields: pointers to his left son, right son, parent, date, and the color of the node (red or black).
