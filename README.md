@@ -20,3 +20,6 @@ Because of that, the create new tree function expect to get compare function.
 
 **To create the library** run the command make in a directory with the files RBTree.h and RBTree.cpp, this command create the static library RBTree.a.
 After that you can like your program with the library, and run your program.
+
+
+![title](Images/RBTRee.png)
