@@ -22,4 +22,4 @@ Because of that, the create new tree function expect to get compare function.
 After that you can like your program with the library, and run your program.
 
 
-![Red-Black Tree example](Images/RBTRee.png)
+![Red-Black Tree example](Images/RBTRee.png =80.01x53.36)
