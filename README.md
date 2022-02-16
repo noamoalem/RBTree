@@ -22,4 +22,5 @@ Because of that, the create new tree function expect to get compare function.
 After that you can like your program with the library, and run your program.
 
 
-![RBTree](https://user-images.githubusercontent.com/67865617/154259134-f012c881-a607-4c96-96e0-b07983aa19a1.gif)
+![RBTree](https://user-images.githubusercontent.com/67865617/154263034-ce6977b2-edb2-4b18-9c54-7a0ffe37e67a.gif)
+
